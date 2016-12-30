@@ -2,7 +2,7 @@
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata;
 
-namespace .netCore_todoAPI_ef
+namespace todoAPI
 {
     public partial class todoContext : DbContext
     {
